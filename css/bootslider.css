@@ -722,7 +722,7 @@ a:hover.bg-custom {
 
 
 .copyright {
-    margin-left: 39%;
+    margin-left: 42%;
     padding-top:20px;
     color:#000;
     font-size: 12px;
@@ -730,14 +730,14 @@ a:hover.bg-custom {
 }
 @media screen and (max-width: 1279px){
         .copyright {
-          padding-left:3%;
+          padding-left:5%;
           padding-top:12px;
           font-size:12px;
     }
 }
 @media screen and (max-width: 979px){
         .copyright {
-          margin-left:30%;
+          margin-left:34%;
           padding-top:6px;
           font-size:8px;
 
